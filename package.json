@@ -1,0 +1,14 @@
+{
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "name": "hexedit",
+  "description": "Hexadecimal Editor",
+  "version": "1.0.3",
+  "bin": "./hexedit.js",
+  "repository": "https://github.com/isaacs/node-hexedit",
+  "dependencies": {
+    "hexy": "~0.2.1",
+    "nopt": "~1.0.10"
+  },
+  "license": "ISC",
+  "files": ["hexedit.js"]
+}
